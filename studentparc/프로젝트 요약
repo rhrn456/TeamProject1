@@ -1,0 +1,58 @@
+프로젝트 주제 : 학생들의 정보 열람, 새로운 학생 추가, 특정 학생 검색,학생 이름 변경, 학생 정보 삭제
+
+핵심 기능 : 1. ArrayList<> 을 사용하여 학생들의 정보를 저장하여  배열 순서대로 출력
+		2. for 문을 이용해 학생들의 정보에서 특정학생의 정보를 불러와 출력합니다.
+		3. Exception 으로 학생을 검색하지못하는 예외가 발생하면 정보를 출력합니다.
+		4. add 를 사용해 기존 배열안에 새로운 배열 정보를 추가합니다.
+		5. remove 를 사용해 불러온 학생 리스트에서 특정 학생을 삭제합니다.
+		6 DB,Model,Service,Controller,EndView,StartView,FailView 총 6가지로 기능을 나눠 서로 호환되며 시스템이 기능하도록 제작하였습니다.
+		
+주의 : 아직 개발중이므로 더욱 많은 발전을 할수있습니다!
+
+
+
+
+
+
+//=================================================================
+
+1. HTML
+- 요소 Element(Tag) : <> contents </>
+- 블록(h, br, p, div, .....) vs 인라인(img, a, span, .....)
+- 시맨틱태그(header, footer, article, .....)
+- 구조***
+
+2. CSS
+- 선택자 { 속성명 : 속성값;}
+- 방법3
+- 선택자 종류
+- 속성!!!!
+- 레이아웃*** 
+
+3. JS
+- let, var, const 변수명;
+- 데이터 타입 : 기본 vs 객체
+- 흐름문 : 반복문(for, while), 조건문(if, switch/case)
+- 객체 : {프로퍼티명 : 값}
+- *** 요소 컨트롤 DOM
+Document Object Model
+- Event*** addEventListener
+-
+-
+-
+
+
+4. Java
+- 컴파일러.java -> .class, 
+- 객체지향적 OOP Object Oriented Programming
+ --> 3 가지 (캡슐화, 상속(extends, implements), 다형성(타입 변수명 = new 생성자()))
+- 기본(8) -> 연산 vs 객체 -> 클래스
+- 메모리 JVM : 메소드 영역, stack, heap
+- 클래스 {
+	- 멤버변수
+  - ***생성자
+  - 메소드
+}
+- API, CollectionFramework(List, Set, Map)
+- Exception, Network, Thread
+
